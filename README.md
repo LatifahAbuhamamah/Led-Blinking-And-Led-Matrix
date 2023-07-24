@@ -1,4 +1,10 @@
-# Led-Blinking-With-Arduino
+# Led Blinking
+Steps to simulate an LED blinking using an Arduino in Tinkercad:
+**1. Open Tinkercad.**
+**2. Create a new circuit:** Click on "Create New Circuit" to start a new project.
+**3. Add components:** In the Components panel, search for "Arduino" and drag the Arduino board into the work area. Then, search for "LED" and drag an LED component into the work area as well.
+**4. Connect the LED to the Arduino:** Connect one end of the LED to pin 5 of the Arduino board (digital pin) and the other end to the GND (ground) pin on the Arduino board. This completes the circuit, allowing the LED to be controlled by pin 5.
+**5. Upload the code:** Click on the Arduino board to open the code editor. Write the following code that blinks the LED:
 ```
 // C++ code
 void setup()
@@ -14,10 +20,9 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
-This C++ code is an Arduino program that blinks an LED connected to pin 5 of the board. It uses the `setup()` function to set up pin 5 as an output pin, and the `loop()` function repeatedly turns the LED ON for 1000 milliseconds and then OFF for another 1000 milliseconds, creating a blinking effect. The LED blinks in an infinite loop, giving the appearance of a blinking LED with a frequency of approximately 0.5 times per second (since each cycle takes 1000 milliseconds for both ON and OFF periods).
+**6. Run the simulation:** Click the "Start Simulation" button to run the simulation.
+ https://www.tinkercad.com/things/1m38TwJUakd-blinking-led/editel
+7. Observe the blinking LED: We will see the LED connected to pin 5 of the Arduino board start blinking on and off with a 1-second interval. The LED will turn on for 1 second and then turn off for 1 second, repeatedly.
 
-![imagee](https://github.com/LatifahAbuhamamah/Led-Blinking-With-Arduino/blob/main/Led-Screenshot.png)
 
-
-https://github.com/LatifahAbuhamamah/Led-Blinking-With-Arduino/assets/139233344/9d1fbf85-7d13-4ae5-af93-f161b8c6c1a4
 
