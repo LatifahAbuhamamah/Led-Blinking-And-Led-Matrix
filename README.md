@@ -22,7 +22,7 @@ void loop()
 ```
 6. Run the simulation: Click the "Start Simulation" button to run the simulation.
 7. Observe the blinking LED: We will see the LED connected to pin 5 of the Arduino board start blinking on and off with a 1-second interval. The LED will turn on for 1 second and then turn off for 1 second, repeatedly.
-- Tinkercad link : https://www.tinkercad.com/things/1m38TwJUakd-blinking-led/editel
+- Tinkercad link : https://www.tinkercad.com/things/0ODC8LhVnDm
 - Screenshot ![img](https://github.com/LatifahAbuhamamah/Led-Blinking-And-Led-Matrix/blob/main/Led-Screenshot.png)
 # Led matrix
 To simulate a 5x5 LED matrix blinking in Tinkercad, follow these steps:
