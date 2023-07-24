@@ -1,6 +1,6 @@
 # Led Blinking
 Steps to simulate an LED blinking using an Arduino in Tinkercad:
-**1. Open Tinkercad.**
+1. Open Tinkercad.
 **1. Create a new circuit:** Click on "Create New Circuit" to start a new project.
 **1. Add components:** In the Components panel, search for "Arduino" and drag the Arduino board into the work area. Then, search for "LED" and drag an LED component into the work area as well.
 **4. Connect the LED to the Arduino:** Connect one end of the LED to pin 5 of the Arduino board (digital pin) and the other end to the GND (ground) pin on the Arduino board. This completes the circuit, allowing the LED to be controlled by pin 5.
