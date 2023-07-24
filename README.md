@@ -88,7 +88,7 @@ void loop()
 6. Run the simulation: Click the "Start Simulation" button to run the simulation.
 7. Observe the blinking LED matrix: We will see the LEDs in the 5x5 matrix blink on and off based on the code's pattern. The LEDs will turn on and off according to the delays defined in the code.
 - Tinkercad link : https://www.tinkercad.com/things/0ODC8LhVnDm
-- Screenshot ![img](      )
+- Screenshot ![image](https://github.com/LatifahAbuhamamah/Led-Blinking-And-Led-Matrix/blob/main/Matrix.png)
 
 
 
